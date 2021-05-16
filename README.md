@@ -2,6 +2,10 @@
 
 This project was bootstrapped with react js.
 
+# How to run
+
+npm start
+
 # Node packages used 
 
 hooks, routing, state, axios, bootstrap, reactstrap, cors, body-parser, mysql, express.
