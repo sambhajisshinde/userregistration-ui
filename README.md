@@ -8,7 +8,12 @@ npm start
 
 # Node packages used 
 
-hooks, routing, state, axios, bootstrap, reactstrap, cors, body-parser, mysql, express.
+hooks </br> 
+routing </br>
+state </br>
+axios </br>
+bootstrap </br>
+reactstrap
 
 # Description
 
