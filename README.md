@@ -1,12 +1,12 @@
-# Getting Started with Registration App
+# getting started with registration application
 
 This project was bootstrapped with react js.
 
-# How to run
+# how to run
 
 npm start
 
-# Node packages used 
+# external-dependencies
 
 hooks </br> 
 routing </br>
@@ -15,7 +15,7 @@ axios </br>
 bootstrap </br>
 reactstrap
 
-# Description
+# description
 
 Project developed in the react js as frontend and used axios as bridge to pass the data from frontend to backend. Also node js are used for sync data from database.
 mysql database are used to stored schema and activity.
